@@ -1,0 +1,19 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/.vs/multiFpsSample
+/Library
+/Logs
+/obj/Debug
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Blocks.Common.csproj
+/Blocks.Gameplay.Core.csproj
+/Blocks.Gameplay.Core.Editor.csproj
+/Blocks.Gameplay.Platformer.csproj
+/Blocks.Gameplay.Shooter.csproj
+/Blocks.Gameplay.Shooter.Editor.csproj
+/Blocks.Sessions.Common.csproj
+/Blocks.Sessions.csproj
+/multiFpsSample.sln
